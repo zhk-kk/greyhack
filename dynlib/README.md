@@ -9,3 +9,7 @@ Will to add:
     - version
   - change internal library identification
   - add async ability
+  - misc methods:
+    - privelege elevation/deelevation
+    - unload
+    - etc
