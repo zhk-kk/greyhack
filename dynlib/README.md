@@ -10,7 +10,7 @@ Will to add:
   - change internal library identification
   - add async ability
   - misc methods:
-    - privelege elevation/deelevation
+    - privilege elevation/deelevation
     - unload
     - etc
   - ability to export functions to the library from the loading program
