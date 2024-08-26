@@ -1,0 +1,2 @@
+# .dynlib dynamic library format
+
