@@ -13,3 +13,4 @@ Will to add:
     - privelege elevation/deelevation
     - unload
     - etc
+  - ability to export functions to the library from the loading program
