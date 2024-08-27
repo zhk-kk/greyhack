@@ -10,6 +10,7 @@ Development path:
     - [x] version
     - [x] author
     - [x] description
+  - [ ] loading by path
   - [ ] improve internal library identification
   - [ ] add async ability
   - [ ] misc methods:
